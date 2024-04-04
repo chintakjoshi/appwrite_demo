@@ -22,7 +22,7 @@ docker run -it --rm ^
 
 ### Once the installation is done, appwrite will run on [http://localhost:80/](http://localhost:80/)
 
-#### Initial Setup with Appwrite
+#### * Initial Setup with Appwrite
 
 1) Create an Account: Begin by registering or logging into your Appwrite account.
 2) Set Up an Organization: Once logged in, create a new organization. You may choose any name that resonates with your project or team.
