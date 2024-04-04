@@ -9,8 +9,8 @@ client
 const databases = new Databases(client);
 const promise = databases.createDocument('660f0123002ed7f863dd', '660f01320018e19a0342', "documentid12" ,
 {
-    name: "Daniel",
-    age: 25
+    name: "Chintak",
+    age: 24
 }
 );
 
