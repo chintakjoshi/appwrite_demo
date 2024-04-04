@@ -18,4 +18,4 @@ docker run -it --rm ^
     --entrypoint="install" ^
     appwrite/appwrite:latest
 ```
-# Choose Default settings for Ports and API keys
+*Choose Default settings for Ports and API keys*
