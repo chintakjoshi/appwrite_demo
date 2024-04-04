@@ -18,4 +18,6 @@ docker run -it --rm ^
     --entrypoint="install" ^
     appwrite/appwrite:latest
 ```
-*Choose Default settings for Ports and API keys*
+*PS - Choose Default settings for Ports and API keys*
+
+### Once the installation is done, appwrite application will run on [http://localhost:80/](http://localhost:80/)
