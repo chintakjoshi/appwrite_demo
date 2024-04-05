@@ -1,3 +1,8 @@
+## Requirements
+* A Laptop
+* Docker
+* VScode
+  
 ## Getting Started for local installation of appwrite.io on Docker
 
 First, run the following command:
