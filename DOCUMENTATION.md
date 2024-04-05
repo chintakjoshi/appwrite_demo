@@ -31,7 +31,7 @@ docker run -it --rm ^
 
 #### Configuring Database
 
-1) Navigate to the Database Section: In your project's dashboard, go to the databases area and create a new database named ```tododb```.
+1) Navigate to the Database Section: In your project's dashboard, navigate to Databases and create a new database named ```tododb```.
 2) Create a Collection: Within tododb, establish a new collection called ```todos```.
 3) Define Attributes:
 * String Attribute: Add an attribute of type string named ```name```. Set this as a required field. The size can be determined based on your needs.
@@ -49,11 +49,11 @@ Navigate to the root directory and run
 ```
 npm install
 ```
-This will install necessary dependencies.
+This will install the necessary dependencies.
 
 #### Configuration 
 
-1) Prepare Configuration File: Open the appwritetest.js file to configure your project. You'll need to update the ```ProjectID```, ```DatabaseID```, and ```CollectionID``` with the values from your Appwrite project setup. Additionally, assign a fixed value to DocumentID, such as ```document1```.
+1) Prepare Configuration File: Open the appwritetest.js file to configure your project. You'll need to update the ```ProjectID```, ```DatabaseID```, and ```CollectionID``` with the respective keys from your Appwrite project setup. Additionally, assign a fixed value to DocumentID, such as ```document1```.
 2) Set Collection Permissions: Access the settings of your todos collection and adjust the permissions to ```any```. Ensure to select all applicable permissions before updating.
 
 #### Running your application
