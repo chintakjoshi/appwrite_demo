@@ -1,6 +1,6 @@
 ## Requirements
 * A Laptop
-* Docker Download for [here](https://www.docker.com/products/docker-desktop/)
+* Docker (*download [here](https://www.docker.com/products/docker-desktop/)*)
 * VScode
   
 ## Getting Started for local installation of appwrite.io on Docker
